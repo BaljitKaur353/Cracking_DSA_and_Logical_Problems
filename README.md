@@ -12,3 +12,4 @@ Be sure to follow my publications for more exciting iOS development content and 
 Happy Coding! 🚀
 
 - [Finding the Longest Word in a Sentence Using Swift](https://medium.com/cracking-dsa-and-logical-problems/finding-the-longest-word-in-a-sentence-using-swift-f3cd3ff3649b)
+- [How to Check if a String is a Palindrome in Swift](https://medium.com/cracking-dsa-and-logical-problems/how-to-check-if-a-string-is-a-palindrome-in-swift-89c03233751f)
