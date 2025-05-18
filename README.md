@@ -16,4 +16,5 @@ Happy Coding! 🚀
 - [How to Remove Duplicates from an Array in Swift](https://medium.com/@baljitKaurGoraya/how-to-remove-duplicates-from-an-array-in-swift-9f05717f0dcb)
 - [🔄 How to Reverse a String in Swift Without Using Built-in Methods](https://medium.com/cracking-dsa-and-logical-problems/how-to-reverse-a-string-in-swift-without-using-built-in-methods-0fe94ca23c64)
 - [Find the Maximum Number of Consecutive 1’s in an Array](https://medium.com/cracking-dsa-and-logical-problems/find-the-maximum-number-of-consecutive-1s-in-an-array-904fe423cd60)
+- [How to Find the Factorial of a Number in Swift](https://medium.com/cracking-dsa-and-logical-problems/how-to-find-the-factorial-of-a-number-in-swift-737bb3bce60a)
 
