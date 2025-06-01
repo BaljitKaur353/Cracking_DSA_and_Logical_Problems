@@ -24,4 +24,5 @@ Happy Coding! 🚀
 - [How to Find the Maximum Number in an Array Using Swift](https://medium.com/cracking-dsa-and-logical-problems/how-to-find-the-maximum-number-in-an-array-using-swift-9ba788590774)
 - [How to Filter Even Numbers from an Array in Swift](https://medium.com/cracking-dsa-and-logical-problems/how-to-filter-even-numbers-from-an-array-in-swift-7608957f1ed3)
 - [How to Check if a Number Is Prime in Swift](https://medium.com/cracking-dsa-and-logical-problems/how-to-check-if-a-number-is-prime-in-swift-0260692e50c2)
-
+- [How to Find the Largest Element in a Nested Array](https://medium.com/cracking-dsa-and-logical-problems/how-to-find-the-largest-element-in-a-nested-array-52fe7e18d55c)
+- [How to Generate the Fibonacci Sequence](https://medium.com/cracking-dsa-and-logical-problems/how-to-generate-the-fibonacci-sequence-1cf8bad6a098)
