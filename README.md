@@ -26,3 +26,4 @@ Happy Coding! 🚀
 - [How to Check if a Number Is Prime in Swift](https://medium.com/cracking-dsa-and-logical-problems/how-to-check-if-a-number-is-prime-in-swift-0260692e50c2)
 - [How to Find the Largest Element in a Nested Array](https://medium.com/cracking-dsa-and-logical-problems/how-to-find-the-largest-element-in-a-nested-array-52fe7e18d55c)
 - [How to Generate the Fibonacci Sequence](https://medium.com/cracking-dsa-and-logical-problems/how-to-generate-the-fibonacci-sequence-1cf8bad6a098)
+- [Mastering String Character Count in Swift: A Beginner-Friendly Guide](https://medium.com/cracking-dsa-and-logical-problems/mastering-string-character-count-in-swift-a-beginner-friendly-guide-e335a17f1bb3)
